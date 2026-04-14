@@ -119,7 +119,7 @@ public class ArbolesBinarios {
         arbolBalanceado.inorden();
 
 
-        System.out.println("\n Árbol Degenerado ");
+        System.out.println("\n Árbol Degenerado");
         ArbolBinarioBusqueda arbolDegenerado = new ArbolBinarioBusqueda();
         int[] datosOrdenados = {7, 15, 32, 44, 58, 81, 99};
         for (int dato : datosOrdenados) {
